@@ -1,0 +1,9 @@
+/Users/He-Man/Desktop/Fixed/build/CMakeFiles/rebuild_cache.dir
+/Users/He-Man/Desktop/Fixed/build/CMakeFiles/edit_cache.dir
+/Users/He-Man/Desktop/Fixed/build/CMakeFiles/fixed_lib.dir
+/Users/He-Man/Desktop/Fixed/build/libarm/CMakeFiles/rebuild_cache.dir
+/Users/He-Man/Desktop/Fixed/build/libarm/CMakeFiles/edit_cache.dir
+/Users/He-Man/Desktop/Fixed/build/libarm/CMakeFiles/libarm.dir
+/Users/He-Man/Desktop/Fixed/build/libcordic/CMakeFiles/rebuild_cache.dir
+/Users/He-Man/Desktop/Fixed/build/libcordic/CMakeFiles/edit_cache.dir
+/Users/He-Man/Desktop/Fixed/build/libcordic/CMakeFiles/libcordic.dir

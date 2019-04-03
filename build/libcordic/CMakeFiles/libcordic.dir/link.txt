@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc liblibcordic.a  CMakeFiles/libcordic.dir/cordic.c.o CMakeFiles/libcordic.dir/matrix_arithmetic.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib liblibcordic.a
